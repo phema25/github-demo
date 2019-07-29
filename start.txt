@@ -1,3 +1,5 @@
 GIT quick start demo
 
 We've come a long way from start!
+
+Adding a new line.
